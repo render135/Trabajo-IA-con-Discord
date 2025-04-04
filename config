@@ -1,6 +1,6 @@
 // config.js
 
 module.exports = {
-    API_KEY_GEMINI: 'AIzaSyAOwbRqgH9F1qD-2aiPZ6le-qLcQOCB7Ak',  // Reemplaza con tu clave de API de Google Cloud
-    DISCORD_BOT_TOKEN: 'MTM1NzA1MjYzMTgwMTEzOTI0Mw.G_5ISt.9VdohLMpsSDzTwUCUgPTUPsH7ktT-6PVpm6udo',      // Reemplaza con tu token de bot de Discord
+    API_KEY_GEMINI: 'Token',  // Reemplaza con tu clave de API de Google Cloud
+    DISCORD_BOT_TOKEN: 'Token',      // Reemplaza con tu token de bot de Discord
   };
